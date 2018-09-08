@@ -1,0 +1,1 @@
+sequelize-auto -o "./data/entity" -d test -h 59.110.235.8 -u root -p 6033  -x Tom!@#$4321Jiang  -e mysql
